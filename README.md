@@ -25,5 +25,5 @@ pytest test_benchmark_binary.py -v o en mcbook python3 -m pytest test_benchmark_
  ⁠
 
 ![Unit test lineal](ss_unitest_lineal.png)
-![Unit test binary](ss_unitest_bynary.png)
+![Unit test binary](ss_unitest_binary.png)
 ![Benchmarking](test_benchmark.png)
